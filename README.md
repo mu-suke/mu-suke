@@ -1,8 +1,4 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu-suke&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-suke&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu-suke&count_private=true&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-suke&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mu-suke/mu-suke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
