@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning next.js!
-- 📫 How to reach me: [Twitter - @username](https://x.com/chelsea08ym)
+- 📫 How to reach me: [Twitter - @chelsea08ym](https://x.com/chelsea08ym)
 <br>
 
 ## 🌱 Skills
