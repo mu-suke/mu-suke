@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a frontend engineer.
-- 🌱 I’m currently learning next.js!
+- 🧑‍💻 I'm a software developer.
+- 🌱 I’m currently learning llm!
 - 📫 How to reach me: [X - @chelsea08ym](https://x.com/chelsea08ym)
 <br>
 
